@@ -1,1 +1,1 @@
-# assignment-02-JavaScript
+https://sitasib.github.io/assignment-02-JavaScript/
